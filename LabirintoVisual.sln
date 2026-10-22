@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabirintoVisual", "LabirintoVisual\LabirintoVisual.csproj", "{6DC3A687-FA68-4CA1-ABC5-11CCAE8AAE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{75EE1F3C-66D1-F057-FCFC-95973997D920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{C5827C10-32D2-D72F-4639-49B48E591E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC3A687-FA68-4CA1-ABC5-11CCAE8AAE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC3A687-FA68-4CA1-ABC5-11CCAE8AAE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC3A687-FA68-4CA1-ABC5-11CCAE8AAE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC3A687-FA68-4CA1-ABC5-11CCAE8AAE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EE1F3C-66D1-F057-FCFC-95973997D920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EE1F3C-66D1-F057-FCFC-95973997D920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EE1F3C-66D1-F057-FCFC-95973997D920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EE1F3C-66D1-F057-FCFC-95973997D920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5827C10-32D2-D72F-4639-49B48E591E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5827C10-32D2-D72F-4639-49B48E591E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5827C10-32D2-D72F-4639-49B48E591E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5827C10-32D2-D72F-4639-49B48E591E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A5CDF1-0015-4FBC-82E5-C1BDDFC33301}
+	EndGlobalSection
+EndGlobal

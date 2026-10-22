@@ -1,0 +1,25 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# Saídas de compilação
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.pdb
+
+# Pacotes NuGet
+*.nupkg
+packages/
+
+# Tabelas Q geradas em tempo de execução
+qTable-*.txt
+
+# Artigo base (licença arXiv não permite redistribuição)
+Docs/
