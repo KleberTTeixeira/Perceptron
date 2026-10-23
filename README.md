@@ -1,6 +1,6 @@
 # Perceptron — Labirinto Visual
 
-Aplicativo de estudo de aprendizado por reforço (Q-learning) em C#  (.NET 8, Windows Forms) em que um agente aprende, por **aprendizado por reforço**, a atravessar um labirinto até o ponto de chegada. O treinamento é mostrado em tempo real: o movimento do agente, os contadores de tentativas e os gráficos dos hiperparâmetros.
+Aplicativo de estudo de aprendizado por reforço (Q-learning) em C# (.NET 8, Windows Forms) em que um agente aprende a atravessar um labirinto até o ponto de chegada. O treinamento é mostrado em tempo real: o movimento do agente, os contadores de tentativas e os gráficos dos hiperparâmetros.
 
 ## Base do estudo
 
